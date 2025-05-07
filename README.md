@@ -41,9 +41,17 @@ Make sure the dataset has categories that meet all filtering criteria.
 
 ##  Requirements
 Jupyter
+
+
 Python
+
+
 pandas
+
+
 matplotlib or plotly
+
+
 pytz
 datetime
 
